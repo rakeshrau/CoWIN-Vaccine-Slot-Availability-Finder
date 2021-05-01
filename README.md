@@ -1,4 +1,4 @@
-# CoWIN Vaccine Availability Finder
+# CoWIN Vaccine Slot Availability Finder
 Python Script to leverage CoWIN's Public API functionality to find hospitals with vaccine availability in selected district from current date till one week.
 The script executes every 10 seconds and sounds an alarm when a hospital in selected districts has vaccines available. The list of hospitals is saved to an putput file.
 > CoWIN Public API Web Page: [Link](https://apisetu.gov.in/public/marketplace/api/cowin)
@@ -58,5 +58,6 @@ Sample CSV Output File:
 - Adding search by PIN code functionality 
 - Creating UI for form input and displaying CSV file
 - Deploy to IBM Cloud for easy of access
+- Create dashboard for displaying results across all districts
 - Add functionality to send text message to notify about vaccine availability
-- For scaling, develop a notification service, where user will be able to enter phone number and districts on a web page and they receive a text message notification when vaccine is available. The script would be running on the server side/
+- For scaling, develop a notification service, where user will be able to enter phone number and districts on a web page and they receive a text message notification when vaccine is available. The script would be running on the server side
