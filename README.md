@@ -47,11 +47,11 @@ In case there are hospitals with required filters present with vaccines, a beep 
 > There might be multiple entries for a particular hospital due to vaccine availability on different dates
 
 ## Sample Execution
-Sample Execution when no hospitals are found:
+Sample Execution when no hospitals are found:  
 ![](https://i.ibb.co/59sSW6n/no-hospitals.png)
-Sample Execution when hospitals are found:
+Sample Execution when hospitals are found:  
 ![](https://i.ibb.co/N689MBx/hospitals.png)
-Sample CSV Output File:
+Sample CSV Output File:  
 ![](https://i.ibb.co/Wn0ntFf/excel.png)
 
 ## Future Work
