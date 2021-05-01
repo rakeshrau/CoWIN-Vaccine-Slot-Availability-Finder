@@ -48,11 +48,11 @@ In case there are hospitals with required filters present with vaccines, a beep 
 
 ## Sample Execution
 Sample Execution when no hospitals are found:  
-![](https://i.ibb.co/59sSW6n/no-hospitals.png)
+![](https://i.ibb.co/59sSW6n/no-hospitals.png)  
 Sample Execution when hospitals are found:  
-![](https://i.ibb.co/N689MBx/hospitals.png)
+![](https://i.ibb.co/N689MBx/hospitals.png)  
 Sample CSV Output File:  
-![](https://i.ibb.co/Wn0ntFf/excel.png)
+![](https://i.ibb.co/Wn0ntFf/excel.png)  
 
 ## Future Work
 - Adding search by PIN code functionality 
